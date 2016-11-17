@@ -1,0 +1,16 @@
+c:\users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\bin\Debug\ChordPrinter.exe.config
+c:\users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\bin\Debug\ChordPrinter.exe
+c:\users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\bin\Debug\ChordPrinter.pdb
+c:\users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\bin\Debug\ChordPrinter.xml
+c:\users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\obj\Debug\ChordPrinter.frmChordPrinter.resources
+c:\users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\obj\Debug\ChordPrinter.Resources.resources
+c:\users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\obj\Debug\ChordPrinter.vbproj.GenerateResource.Cache
+c:\users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\obj\Debug\ChordPrinter.exe
+c:\users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\obj\Debug\ChordPrinter.xml
+c:\users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\obj\Debug\ChordPrinter.pdb
+c:\users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\obj\Debug\ChordPrinter.ChordEdit.resources
+C:\Users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\obj\Debug\ChordPrinter.PlaybackSettings.resources
+C:\Users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\bin\Debug\ChordPrinter.exe.manifest
+C:\Users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\bin\Debug\ChordPrinter.application
+C:\Users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\obj\Debug\ChordPrinter.exe.manifest
+C:\Users\davidp\documents\visual studio 2012\Projects\ChordPrinter\ChordPrinter\obj\Debug\ChordPrinter.application

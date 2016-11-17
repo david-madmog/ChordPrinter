@@ -1,0 +1,122 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ChordPrinter
+</name>
+</assembly>
+<members>
+<member name="P:ChordPrinter.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:ChordPrinter.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:ChordPrinter.My.Resources.Resources.add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ChordPrinter.My.Resources.Resources.cog">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ChordPrinter.My.Resources.Resources.control_play">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ChordPrinter.My.Resources.Resources.control_stop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ChordPrinter.My.Resources.Resources.cross">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ChordPrinter.My.Resources.Resources.cut">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ChordPrinter.My.Resources.Resources.disk">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ChordPrinter.My.Resources.Resources.folder_page">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ChordPrinter.My.Resources.Resources.page_copy">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ChordPrinter.My.Resources.Resources.page_edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ChordPrinter.My.Resources.Resources.page_paste">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:ChordPrinter.My.Resources.Resources.printer">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:ChordPrinter.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="P:ChordPrinter.clsMIDI.CurrentInstrument">
+	<summary>
+ Gets or sets the Current Instrument.  For a list of the instrument names, search for GMInstrumentNames in clsMIDI.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:ChordPrinter.clsMIDI.Volume">
+	<summary>
+ Gets or sets Volume.  Volume - (0 - 127) Low to High Volume. 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:ChordPrinter.clsMIDI.NoteDuration">
+	<summary>
+ Gets or sets Note Duration.
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:ChordPrinter.clsMIDI.ModWheel">
+	<summary>
+ Gets or sets Modulation.  ModWheel - (0 - 255) Low to High Modulation. 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:ChordPrinter.clsMIDI.Pan">
+	<summary>
+ Gets or sets Speaker Panning.  Pan - (0 - 50 - 100) Left(0) to Middle(50) to Right(100) speaker. 
+ </summary>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:ChordPrinter.clsMIDI.PlayMIDINote(System.Int32,System.Int32)">
+	<summary>
+ Plays a note by Velocity (0 - 127) and Note Number (0 - 127).
+ </summary>
+	<param name="Note">Value from (0 - 127)</param>
+	<param name="Velocity">Value from (0 - 127)</param>
+	<remarks></remarks>
+</member><member name="M:ChordPrinter.clsMIDI.PlayMIDINote(System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Plays a note by Velocity (0 - 127) and Note Number (0 - 127).
+ </summary>
+	<param name="Note">Value from (0 - 127)</param>
+	<param name="Velocity">Value from (0 - 127)</param>
+	<param name="Duration">Length note is played (in seconds)</param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
